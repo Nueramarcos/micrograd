@@ -4,6 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Fork](https://img.shields.io/badge/fork-Nueramarcos-lightgrey.svg)](FORK.md)
+[![Fork Smoke](https://github.com/Nueramarcos/micrograd/actions/workflows/fork-smoke.yml/badge.svg)](https://github.com/Nueramarcos/micrograd/actions/workflows/fork-smoke.yml)
 
 ![awww](puppy.jpg)
 
