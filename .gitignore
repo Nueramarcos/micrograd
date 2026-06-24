@@ -1,2 +1,9 @@
 .ipynb_checkpoints/
 .aider*
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.issue-agent-venv/
+dist/
+*.egg-info/
